@@ -3,7 +3,7 @@
 ### *Description*
  The Lottery contract facilitates a **decentralized** lottery game where participants commit to a choice, reveal it later, and potentially win a reward based on their choices. 🎲 
 
-> This README provides an overview of the Lottery contract, including its functions, stages, events and variables. For detailed implementation, refer to the [Solidity code](https://github.com/biskitsx/multi-party-lottery/lottery.sol).
+> This README provides an overview of the Lottery contract, including its functions, stages, events and variables. For detailed implementation, refer to the [Solidity code](https://github.com/biskitsx/multi-party-lottery/blob/main/lottery.sol).
 
 
 ---
