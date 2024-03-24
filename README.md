@@ -1,6 +1,6 @@
-## Multi Party Lottery 🎰
+# Multi Party Lottery 🎰
 
-### *Description*
+## *Description*
  The Lottery contract facilitates a **decentralized** lottery game where participants commit to a choice, reveal it later, and potentially win a reward based on their choices. 🎲 
 
 > This README provides an overview of the Lottery contract, including its functions, stages, events and variables. For detailed implementation, refer to the [Solidity code](https://github.com/biskitsx/multi-party-lottery/blob/main/lottery.sol).
@@ -8,7 +8,7 @@
 
 ---
 
-### *Etherscan.io*
+## *Etherscan.io*
 You can see my contract and transaction on Ethereum’s Sepolia Testnet by clicking on the provided links below.
 
 | **Account**          |Link Address                                                                              |
@@ -20,7 +20,7 @@ You can see my contract and transaction on Ethereum’s Sepolia Testnet by click
 
 
 ---
-### *Game Conceptual*
+## *Game Conceptual*
 
 The Lottery contract operates in four distinct stages:
 
@@ -47,7 +47,7 @@ The Lottery contract operates in four distinct stages:
     This stage allows participants to reclaim their entry fee in the event that contract owner fails to determine a winner within a specified time.
 ---
 
-### *Contructor*
+## *Contructor*
 
 | Parameter | Type  | Description                              |
 |-----------|-------|------------------------------------------|
@@ -58,7 +58,7 @@ The Lottery contract operates in four distinct stages:
 
 
 --- 
-### *Functions References*
+## *Functions References*
 
 1. ***enterLotteryPool***
 
@@ -102,7 +102,7 @@ The Lottery contract operates in four distinct stages:
 
 
 
-### *Events*
+## *Events*
 
 | Event              | Description                                                                                  |
 |--------------------|----------------------------------------------------------------------------------------------|
@@ -114,7 +114,7 @@ The Lottery contract operates in four distinct stages:
 
 ---
 
-### *Variables Reference*
+## *Variables Reference*
 
 | Variable          | Type     | Description                                                                                      |
 |-------------------|----------|--------------------------------------------------------------------------------------------------|
