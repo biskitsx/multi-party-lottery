@@ -109,7 +109,6 @@ The Lottery contract operates in four distinct stages:
 | `PlayerEntered`    | Fired when a participant enters the lottery pool.                                            |
 | `ChoiceRevealed`   | Fired when a participant reveals their choice.                                                |
 | `WinnerPaid`       | Fired when the winner is paid.                                                               |
-| `ContractOwnerPaid`| Fired when the contract owner receives the all of reward                              |
 | `EntryFeeWithdrawn`| Fired when a participant withdraws their entry fee.                                           |
 
 ---
